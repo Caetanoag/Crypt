@@ -1,4 +1,2 @@
 # Crypt
-This is the reposity where I will put all the cryptograph classes I'm gonna create.
-
-Import Name from "https://github.com/Caetanoag/Crypt"
+Repositório temporário para guardar meus arquivos de criptografia em formato de classe, assim posso utilizar em novas aplicações usando apenas um npm install e import
