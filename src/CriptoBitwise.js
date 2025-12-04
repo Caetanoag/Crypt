@@ -652,3 +652,4 @@ class CriptoBitwise {
         }
     }
 }
+export default CriptoBitwise;
