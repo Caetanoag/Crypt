@@ -658,4 +658,4 @@ class CriptoBitwise {
         }
     }
 }
-module.exports = CriptoBitwise;
+export default CriptoBitwise;
