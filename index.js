@@ -1,0 +1,1 @@
+export { default as CriptoBitwise } from './src/CriptoBitwise.js';
